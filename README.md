@@ -7,7 +7,7 @@ Place image in same folder and choose which color the algorithm should look for.
 
 To run:
 
-"""
+```
 python3 Object_detector.py
-"""
+```
 
